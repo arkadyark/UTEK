@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel='stylesheet' href='style.css'/>
+	<script src='script.js'></script>
+</head>
+    <h1 style = "text-align:center">
+    Company Name
+    </h1>
+<body style ="text-align:center">
+<img src="https://raw.githubusercontent.com/arkadyark/UTEK/master/figure_1.png">
+
+<!--insert the link or function of image-->
+
+</body>
+<h3>
+Analysis
+</h3>
+<table>
+    <tr>
+        <td style= "text-align:left"><strong>Best Buying Date:</strong></td>
+        <td style= "text-align:left"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Best Selling Date:</strong></td>
+    </tr>
+    <tr>
+        <td style= "text-align:left">Date: Month Date, Year               </td>
+        <td style= "text-align:left;width:20px"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Someday</td>
+    </tr>
+
+</table>
+</body>
+</html>
