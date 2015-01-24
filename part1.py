@@ -12,8 +12,6 @@ def get_stock_prices(url):
         values.append(float(row[1]))
     return values
 
-def get_max_trades(values, n = 5):
-
 
 def plot_stock(url):
     response = urllib2.urlopen(url)
